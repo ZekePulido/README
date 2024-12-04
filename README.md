@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a flutter application called BarBuzz<br>💻 My main languages are Python, Java, Dart, and C++<br>✏️ I am really fascinated by AI, Web and App Development
+🔭 I am currently working on a flutter application called BarBuzz<br>✏️ I am really fascinated by AI, Web and App Development<br>💻 I am currently a Junior Software Engineering Student
 
 
 ## 🌐 Socials:
